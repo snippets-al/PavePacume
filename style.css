@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+marquee{
+    color: blue;
+    font-size: 100pt;
+}
+#renan{
+    height: 100px;
+    width: 150px;
+}
